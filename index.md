@@ -1,4 +1,4 @@
-## Austin Strong Backyard Camp
+## 2021 Austin Strong Backyard Camp
 
 ### Mission
 
@@ -12,13 +12,21 @@
 
 Founder: Charles Sun
 
-Main members: Charles Sun, Allan Zhou, Joseph Zhou, Annie Li and Amy Li
+Main members: Charles Sun, Allan Zhou, Joseph Zhou, Annie Li, and Amy Li
 
 Backup members: Carly Barnett, Devin Dickey
+
+### Curriculum
+* Gardening/natural Science-  Charles and Allan
+* Music - Charles
+* Math and Science - Allan and Joseph
+* English/Chinese - Annie and Amy
+* Holidays celebration/outdoor games - Team
+* Camp maintenance - Charles and Allan
 
 ### Impact
 
 * **The whole summer**-Rain or shine, camp lasted for 12 weeks
 * **Accumulated volunteer hours**-1000+hrs
-* **Served to diverse families**-Asain/Indian/White
+* **Served to diverse families**-Asian/Indian/White
 * **Total Accumulated Attendees**-700+

@@ -26,6 +26,8 @@ Backup members: Carly Barnett, Devin Dickey
 
 ### Camp Schedule
 May 27th, 2021 to August 17th, 2021
+
+
 4:00 pm - 6:00 pm
 
 ### Impact

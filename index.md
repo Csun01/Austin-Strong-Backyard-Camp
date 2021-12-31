@@ -30,3 +30,7 @@ Backup members: Carly Barnett, Devin Dickey
 * **Accumulated volunteer hours**-1000+hrs
 * **Served to diverse families**-Asian/Indian/White
 * **Total Accumulated Attendees**-700+
+
+<img src="/Website\ Folder/Team/Team.JPG"
+     alt="Team picture"
+     style="" />

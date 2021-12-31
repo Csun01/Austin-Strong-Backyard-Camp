@@ -96,13 +96,13 @@ Left to right for the top picture: Joseph, Amy, Charles, Allan, and Annie
 
 <img src="images/Teaching/stem/Lego.JPG"
      alt="Team picture"
-     style="31" />
+     style="31%" />
 <img src="images/Teaching/stem/lego4.JPG"
      alt="Team picture"
-     style="31" />
+     style="31%" />
 <img src="images/Teaching/stem/lgo.JPG"
      alt="Team picture"
-     style="31" />
+     style="31%" />
 <img src="images/Teaching/stem/Log3.JPG"
      alt="Team picture"
      style="" />

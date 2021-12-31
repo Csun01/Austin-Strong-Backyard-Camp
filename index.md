@@ -36,16 +36,12 @@ Backup members: Carly Barnett, Devin Dickey
 Left to right from the first picture: Charles, Annie, Amy, Allan, and Joseph
 
 <img src="images/Team/Impact.JPG"
-     alt="Team picture"
      style="width: 49%" />
 <img src="images/Team/G3.JPG"
-     alt="Team picture"
      style="width: 49%" />
 <img src="images/GCamp2.JPG"
-     alt="Team picture"
      style="width: 49%" />
 <img src="images/Team/G1WHS.JPG"
-     alt="Team picture"
      style="width: 49%" />
     
     

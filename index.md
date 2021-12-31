@@ -1,4 +1,4 @@
-## 2021 Austin Strong Backyard Camp
+## Austin Strong Backyard Camp 
 
 ### Mission
 
@@ -10,7 +10,7 @@
 
 ### Members
 
-Founder: Charles Sun
+Founder (est. May 2021): Charles Sun
 
 Main members: Charles Sun, Allan Zhou, Joseph Zhou, Annie Li, and Amy Li
 
@@ -22,7 +22,11 @@ Backup members: Carly Barnett, Devin Dickey
 * Math and Science - Allan and Joseph
 * English/Chinese - Annie and Amy
 * Holiday Celebrations/Outdoor Games - Team
-* Camp maintenance - Charles and Allan
+* Camp Maintenance - Charles and Allan
+
+### Camp Schedule
+May 27th, 2021 to August 17th, 2021
+4:00 pm - 6:00 pm
 
 ### Impact
 
@@ -30,6 +34,9 @@ Backup members: Carly Barnett, Devin Dickey
 * **Accumulated volunteer hours** - 1000+ hours
 * **Served to diverse families** - Asian/Indian/White
 * **Total accumulated attendees** - 700+ attendees
+
+### YouTube Video
+* https://youtu.be/1Xu55u8Vx1Y
 
 ### Team
 

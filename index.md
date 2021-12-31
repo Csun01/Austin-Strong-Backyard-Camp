@@ -109,16 +109,15 @@ Left to right for the top picture: Joseph, Amy, Charles, Allan, and Annie
 
 <img src="images/Outdorr/C_G.JPG"
      alt="Team picture"
-     style="" />
+     style="width: 31%" />
 <img src="images/Outdorr/C_Yard2.JPG"
      alt="Team picture"
-     style="" />
+     style="width: 31%" />
+<img src="images/Outdorr/CA.JPG"
+     alt="Team picture"
+     style="width: 31%" />
 <img src="images/Outdorr/C_Yard4.JPG"
      alt="Team picture"
      style="" />
-<img src="images/Outdorr/CZ1.JPG"
-     alt="Team picture"
-     style="" />
-<img src="images/Outdorr/CA.JPG"
-     alt="Team picture"
-     style="" />
+
+

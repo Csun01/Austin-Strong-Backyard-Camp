@@ -62,7 +62,7 @@ Left to right from the first picture: Charles, Annie, Amy, Allan, and Joseph
      style="width: 33%" />
 
 
-
+<!-- 
 ### Music Moments
 
 <img src="images/Music/AA_Mus.JPG"
@@ -80,7 +80,7 @@ Left to right from the first picture: Charles, Annie, Amy, Allan, and Joseph
 <img src="images/Music/C_Mus4.JPG"
      alt="Team picture"
      style="width: 35%" />
-
+ -->
 ### Teaching Moments
 
 <img src="images/Teaching/BackyardCamp.JPG"

@@ -34,3 +34,7 @@ Backup members: Carly Barnett, Devin Dickey
 <img src="/images/Team/Team.JPG"
      alt="Team picture"
      style="" />
+
+<img src="/images/Team/Impact.JPG"
+     alt="Team picture"
+     style="" />

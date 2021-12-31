@@ -102,10 +102,10 @@ Left to right from the first picture: Charles, Annie, Amy, Allan, and Joseph
 <img src="images/Teaching/stem/lgo.JPG"
      alt="Team picture"
      style="width: 31%" />
-<img src="images/Teaching/stem/Log3.JPG"
+<!-- <img src="images/Teaching/stem/Log3.JPG"
      alt="Team picture"
      style="width: 31%" />
-
+ -->
 ### Sports Moments
 
 <img src="images/Outdorr/C_G.JPG"

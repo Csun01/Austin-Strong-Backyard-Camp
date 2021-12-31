@@ -31,6 +31,6 @@ Backup members: Carly Barnett, Devin Dickey
 * **Served to diverse families**-Asian/Indian/White
 * **Total Accumulated Attendees**-700+
 
-<img src="/Website\ Folder/Team/Team.JPG"
+<img src="/Website%20Folder/Team/Team.JPG"
      alt="Team picture"
      style="" />

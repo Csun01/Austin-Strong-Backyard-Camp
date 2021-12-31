@@ -41,3 +41,89 @@ Left to right for the top picture: Joseph, Amy, Charles, Allan, and Annie
 <img src="images/Team/Impact.JPG"
      alt="Team picture"
      style="" />
+     
+    
+    
+### Garden Moments
+
+<img src="images/Garden/Basil.JPG"
+     alt="Team picture"
+     style="" />
+<img src="images/Garden/GCKgrow.JPG"
+     alt="Team picture"
+     style="" />
+<img src="images/Garden/K2b.JPG"
+     alt="Team picture"
+     style="" />
+<img src="images/Garden/Pump4.JPG"
+     alt="Team picture"
+     style="" />
+
+
+### Music Moments
+
+<img src="images/Music/AA_Mus.JPG"
+     alt="Team picture"
+     style="" />
+<img src="images/Music/C_Mus3.JPG"
+     alt="Team picture"
+     style="" />
+<img src="images/Music/C_Mus4.JPG"
+     alt="Team picture"
+     style="" />
+<img src="images/Music/C_Mus7.JPG"
+     alt="Team picture"
+     style="" />
+<img src="images/Music/MusTrio.JPG"
+     alt="Team picture"
+     style="" />
+
+
+### Teaching Moments
+
+<img src="images/Teaching/BackyardCamp.JPG"
+     alt="Team picture"
+     style="" />
+<img src="images/Teaching/CC.JPG"
+     alt="Team picture"
+     style="" />
+<img src="images/Teaching/CholeIndian.JPG"
+     alt="Team picture"
+     style="" />
+<img src="images/Teaching/IMG_0119.JPG"
+     alt="Team picture"
+     style="" />
+     
+     
+### STEM Moments
+
+<img src="images/Teaching/stem/Lego.JPG"
+     alt="Team picture"
+     style="" />
+<img src="images/Teaching/stem/Log3.JPG"
+     alt="Team picture"
+     style="" />
+<img src="images/Teaching/stem/lego4.JPG"
+     alt="Team picture"
+     style="" />
+<img src="images/Teaching/stem/lgo.JPG"
+     alt="Team picture"
+     style="" />
+     
+### Sports Moments
+
+<img src="images/Outdorr/C_G.JPG"
+     alt="Team picture"
+     style="" />
+<img src="images/Outdorr/C_Yard2.JPG"
+     alt="Team picture"
+     style="" />
+<img src="images/Outdorr/C_Yard4.JPG"
+     alt="Team picture"
+     style="" />
+<img src="images/Outdorr/CZ1.JPG"
+     alt="Team picture"
+     style="" />
+<img src="images/Outdorr/CA.JPG"
+     alt="Team picture"
+     style="" />

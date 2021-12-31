@@ -38,7 +38,9 @@ May 27th, 2021 to August 17th, 2021
 * **Total accumulated attendees** - 700+ attendees
 
 ### Video
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Xu55u8Vx1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Team
 
 Left to right from the first picture: Charles, Annie, Amy, Allan, and Joseph

@@ -71,10 +71,10 @@ Left to right for the top picture: Joseph, Amy, Charles, Allan, and Annie
      style="width: 33%" />
 <img src="images/Music/C_Mus3.JPG"
      alt="Team picture"
-     style="width: 50%" />
+     style="width: 35%" />
 <img src="images/Music/C_Mus4.JPG"
      alt="Team picture"
-     style="width: 50%" />
+     style="width: 35%" />
 
 ### Teaching Moments
 

@@ -17,23 +17,23 @@ Main members: Charles Sun, Allan Zhou, Joseph Zhou, Annie Li, and Amy Li
 Backup members: Carly Barnett, Devin Dickey
 
 ### Curriculum
-* Gardening/natural Science -  Charles and Allan
+* Gardening/Natural Science -  Charles and Allan
 * Music - Charles
 * Math and Science - Allan and Joseph
 * English/Chinese - Annie and Amy
-* Holidays celebration/outdoor games - Team
+* Holiday Celebrations/Outdoor Games - Team
 * Camp maintenance - Charles and Allan
 
 ### Impact
 
-* **The whole summer**- Rain or shine, camp lasted for 12 weeks
-* **Accumulated volunteer hours**- 1000+hrs
-* **Served to diverse families**- Asian/Indian/White
-* **Total Accumulated Attendees**- 700+
+* **The whole summer** - Rain or shine, the camp lasted for 12 weeks
+* **Accumulated volunteer hours** - 1000+ hours
+* **Served to diverse families** - Asian/Indian/White
+* **Total Accumulated Attendees** - 700+
 
 ### Team
 
-Left to right for the top picture: Joseph, Amy, Charles, Allan, and Annie 
+Left to right for the top picture: Charles, Annie, Amy, Allan, and Joseph
 
 <img src="images/Team/Impact.JPG"
      alt="Team picture"

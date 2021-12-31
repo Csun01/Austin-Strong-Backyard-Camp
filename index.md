@@ -48,16 +48,16 @@ Left to right for the top picture: Joseph, Amy, Charles, Allan, and Annie
 
 <img src="images/Garden/Basil.JPG"
      alt="Team picture"
-     style="" />
+     style="width: 24.99999%" />
 <img src="images/Garden/GCKgrow.JPG"
      alt="Team picture"
-     style="" />
+     style="width: 24.99999%" />
 <img src="images/Garden/K2b.JPG"
      alt="Team picture"
-     style="" />
+     style="width: 24.99999%" />
 <img src="images/Garden/Pump4.JPG"
      alt="Team picture"
-     style="" />
+     style="width: 24.99999%" />
 
 
 ### Music Moments

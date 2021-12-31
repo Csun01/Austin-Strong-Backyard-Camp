@@ -80,16 +80,16 @@ Left to right for the top picture: Joseph, Amy, Charles, Allan, and Annie
 
 <img src="images/Teaching/BackyardCamp.JPG"
      alt="Team picture"
-     style="" />
+     style="width: 25%" />
 <img src="images/Teaching/CC.JPG"
      alt="Team picture"
-     style="" />
+     style="width: 25%" />
 <img src="images/Teaching/CholeIndian.JPG"
      alt="Team picture"
-     style="" />
+     style="width: 25%" />
 <img src="images/Teaching/IMG_0119.JPG"
      alt="Team picture"
-     style="" />
+     style="width: 25%" />
      
      
 ### STEM Moments

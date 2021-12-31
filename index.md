@@ -86,7 +86,7 @@ Left to right from the first picture: Charles, Annie, Amy, Allan, and Joseph
      style="width: 35%" />
 <img src="images/Music/C_Mus4.JPG"
      alt="Team picture"
-     style="width: 35%" />
+     style="width: 35%; height: 30%" />
 
 ### Teaching Moments
 
@@ -118,13 +118,13 @@ Left to right from the first picture: Charles, Annie, Amy, Allan, and Joseph
 
 <img src="images/Outdorr/C_G.JPG"
      alt="Team picture"
-     style="width: 31%" />
+     style="width: 32%" />
 <img src="images/Outdorr/C_Yard2.JPG"
      alt="Team picture"
-     style="width: 31%" />
+     style="width: 32%" />
 <img src="images/Outdorr/CA.JPG"
      alt="Team picture"
-     style="width: 31%" />
+     style="width: 32%" />
 <img src="images/Outdorr/C_Yard4.JPG"
      alt="Team picture"
      style="" />

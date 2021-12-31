@@ -33,7 +33,7 @@ Backup members: Carly Barnett, Devin Dickey
 
 ### Team
 
-Left to right: Joseph, Amy, Charles, Allan, and Annie 
+Left to right for the top picture: Joseph, Amy, Charles, Allan, and Annie 
 <img src="images/Team/Team.JPG"
      alt="Team picture"
      style="" />

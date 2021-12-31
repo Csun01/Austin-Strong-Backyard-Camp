@@ -29,7 +29,7 @@ Backup members: Carly Barnett, Devin Dickey
 * **The whole summer** - Rain or shine, the camp lasted for 12 weeks
 * **Accumulated volunteer hours** - 1000+ hours
 * **Served to diverse families** - Asian/Indian/White
-* **Total accumulated attendees** - 700+
+* **Total accumulated attendees** - 700+ attendees
 
 ### Team
 

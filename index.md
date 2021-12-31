@@ -31,7 +31,7 @@ Backup members: Carly Barnett, Devin Dickey
 * **Served to diverse families** - Asian/Indian/White
 * **Total accumulated attendees** - 700+ attendees
 
-### Team
+<!-- ### Team
 
 Left to right from the first picture: Charles, Annie, Amy, Allan, and Joseph
 
@@ -62,7 +62,7 @@ Left to right from the first picture: Charles, Annie, Amy, Allan, and Joseph
      style="width: 33%" />
 
 
-<!-- 
+
 ### Music Moments
 
 <img src="images/Music/AA_Mus.JPG"
@@ -80,7 +80,7 @@ Left to right from the first picture: Charles, Annie, Amy, Allan, and Joseph
 <img src="images/Music/C_Mus4.JPG"
      alt="Team picture"
      style="width: 35%" />
- -->
+
 ### Teaching Moments
 
 <img src="images/Teaching/BackyardCamp.JPG"
@@ -106,9 +106,9 @@ Left to right from the first picture: Charles, Annie, Amy, Allan, and Joseph
 <img src="images/Teaching/stem/lgo.JPG"
      alt="Team picture"
      style="width: 31%" />
-<!-- <img src="images/Teaching/stem/Log3.JPG"
+<img src="images/Teaching/stem/Log3.JPG"
      alt="Team picture"
-     style="width: 31%" /> -->
+     style="width: 31%" />
 
 ### Sports Moments
 
@@ -126,3 +126,4 @@ Left to right from the first picture: Charles, Annie, Amy, Allan, and Joseph
      style="" />
 
 
+ -->

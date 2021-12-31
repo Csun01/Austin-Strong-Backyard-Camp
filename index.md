@@ -34,14 +34,19 @@ Backup members: Carly Barnett, Devin Dickey
 ### Team
 
 Left to right for the top picture: Joseph, Amy, Charles, Allan, and Annie 
-<img src="images/Team/Team.JPG"
-     alt="Team picture"
-     style="" />
 
 <img src="images/Team/Impact.JPG"
      alt="Team picture"
-     style="" />
-     
+     style="width: 49%" />
+<img src="images/Team/G3.JPG"
+     alt="Team picture"
+     style="width: 49%" />
+<img src="images/GCamp2.JPG"
+     alt="Team picture"
+     style="width: 49%" />
+<img src="images/Team/G1WHS.JPG"
+     alt="Team picture"
+     style="width: 49%" />
     
     
 ### Garden Moments

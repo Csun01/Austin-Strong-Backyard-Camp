@@ -34,7 +34,7 @@ May 27th, 2021 to August 17th, 2021
 
 * **The whole summer** - Rain or shine, the camp lasted for 12 weeks
 * **Accumulated volunteer hours** - 1000+ hours
-* **Served to diverse families** - Asian/Indian/White
+* **Served to diverse families** - Chinese/Indian/White
 * **Total accumulated attendees** - 700+ attendees
 
 ### Video

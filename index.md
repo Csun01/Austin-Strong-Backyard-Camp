@@ -40,7 +40,7 @@ May 27th, 2021 to August 17th, 2021
 ### Video
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=wd1-REIJB7U">
+src="https://www.youtube.com/embed/wd1-REIJB7U">
 </iframe>
 
 ### Team

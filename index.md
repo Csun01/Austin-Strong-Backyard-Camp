@@ -45,59 +45,59 @@ May 27th, 2021 to August 17th, 2021
 
 Left to right from the first picture: Charles, Annie, Amy, Allan, and Joseph
 
-<img src="images/Team/T1"
+<img src="images/Team/T1.JPG"
      style="width: 49%" />
-<img src="images/Team/T2"
+<img src="images/Team/T2.JPG"
      style="width: 49%" />
-<img src="images/Team/T3"
+<img src="images/Team/T3.JPG"
      style="width: 49%" />
-<img src="images/Team/T4"
+<img src="images/Team/T4.JPG"
      style="width: 49%" />
     
     
 ### Garden Moments
 
-<img src="images/Garden/G1"
+<img src="images/Garden/G1.JPG"
      alt="Team picture"
      style="width: 49%" />
-<img src="images/Garden/G2"
+<img src="images/Garden/G2.JPG"
      alt="Team picture"
      style="width: 49%" />
-<img src="images/Garden/G3"
+<img src="images/Garden/G3.JPG"
      alt="Team picture"
      style="width: 49%" />
-<img src="images/Garden/G4"
+<img src="images/Garden/G4.JPG"
      alt="Team picture"
      style="width: 49%" />
 
 
 ### Music Moments
 
-<img src="images/Music/M1"
+<img src="images/Music/M1.JPG"
      alt="Team picture"
      style="width: 28%" />
-<img src="images/Music/M2"
+<img src="images/Music/M2.JPG"
      alt="Team picture"
      style="width: 28%" />
-<img src="images/Music/M3"
+<img src="images/Music/M3.JPG"
      alt="Team picture"
      width="237" height="158" />
-<img src="images/Music/M4"
+<img src="images/Music/M4.JPG"
      alt="Team picture"
      style="width: 35%" />
-<img src="images/Music/M5"
+<img src="images/Music/M5.JPG"
      alt="Team picture"
      width="300" height="450" />
 
 ### Teaching Moments
 
-<img src="images/Teaching/T1"
+<img src="images/Teaching/T1.JPG"
      alt="Team picture"
      style="width: 31%" />
-<img src="images/Teaching/T2"
+<img src="images/Teaching/T2.JPG"
      alt="Team picture"
      style="width: 31%" />
-<img src="images/Teaching/T3"
+<img src="images/Teaching/T3.JPG"
      alt="Team picture"
      style="width: 31%" />
 
@@ -105,28 +105,28 @@ Left to right from the first picture: Charles, Annie, Amy, Allan, and Joseph
      
 ### STEM Moments
 
-<img src="images/Teaching/STEM/L1"
+<img src="images/Teaching/STEM/L1.JPG"
      alt="Team picture"
      style="width: 31%" />
-<img src="images/Teaching/STEM/L2"
+<img src="images/Teaching/STEM/L2.JPG"
      alt="Team picture"
      style="width: 31%" />
-<img src="images/Teaching/STEM/L3"
+<img src="images/Teaching/STEM/L3.JPG"
      alt="Team picture"
      style="width: 31%" />
 
 ### Sports Moments
 
-<img src="images/Outdoor/O1"
+<img src="images/Outdoor/O1.JPG"
      alt="Team picture"
      style="width: 32%" />
-<img src="images/Outdoor/O2"
+<img src="images/Outdoor/O2.JPG"
      alt="Team picture"
      style="width: 32%" />
-<img src="images/Outdoor/O3"
+<img src="images/Outdoor/O3.JPG"
      alt="Team picture"
      style="width: 32%" />
-<img src="images/Outdoor/O4"
+<img src="images/Outdoor/O4.JPG"
      alt="Team picture"
      style="" />
 

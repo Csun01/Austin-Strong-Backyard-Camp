@@ -45,59 +45,59 @@ May 27th, 2021 to August 17th, 2021
 
 Left to right from the first picture: Charles, Annie, Amy, Allan, and Joseph
 
-<img src="images/Team/Impact.JPG"
+<img src="images/Team/T1"
      style="width: 49%" />
-<img src="images/Team/G3.JPG"
+<img src="images/Team/T2"
      style="width: 49%" />
-<img src="images/GCamp2.JPG"
+<img src="images/Team/T3"
      style="width: 49%" />
-<img src="images/Team/G1WHS.JPG"
+<img src="images/Team/T4"
      style="width: 49%" />
     
     
 ### Garden Moments
 
-<img src="images/Garden/Basil.JPG"
+<img src="images/Garden/G1"
      alt="Team picture"
      style="width: 49%" />
-<img src="images/Garden/GCKgrow.JPG"
+<img src="images/Garden/G2"
      alt="Team picture"
      style="width: 49%" />
-<img src="images/Garden/K2b.JPG"
+<img src="images/Garden/G3"
      alt="Team picture"
      style="width: 49%" />
-<img src="images/Garden/K3.JPG"
+<img src="images/Garden/G4"
      alt="Team picture"
      style="width: 49%" />
 
 
 ### Music Moments
 
-<img src="images/Music/AA_Mus.JPG"
+<img src="images/Music/M1"
      alt="Team picture"
      style="width: 28%" />
-<img src="images/Music/C_Mus7.JPG"
+<img src="images/Music/M2"
      alt="Team picture"
      style="width: 28%" />
-<img src="images/Music/MusTrio.JPG"
+<img src="images/Music/M3"
      alt="Team picture"
      width="237" height="158" />
-<img src="images/Music/C_Mus3.JPG"
+<img src="images/Music/M4"
      alt="Team picture"
      style="width: 35%" />
-<img src="images/Music/C_Mus4.JPG"
+<img src="images/Music/M5"
      alt="Team picture"
      width="300" height="450" />
 
 ### Teaching Moments
 
-<img src="images/Teaching/BackyardCamp.JPG"
+<img src="images/Teaching/T1"
      alt="Team picture"
      style="width: 31%" />
-<img src="images/Teaching/CC.JPG"
+<img src="images/Teaching/T2"
      alt="Team picture"
      style="width: 31%" />
-<img src="images/Teaching/CholeIndian.JPG"
+<img src="images/Teaching/T3"
      alt="Team picture"
      style="width: 31%" />
 
@@ -105,28 +105,28 @@ Left to right from the first picture: Charles, Annie, Amy, Allan, and Joseph
      
 ### STEM Moments
 
-<img src="images/Teaching/stem/Lego.JPG"
+<img src="images/Teaching/STEM/L1"
      alt="Team picture"
      style="width: 31%" />
-<img src="images/Teaching/stem/lego4.JPG"
+<img src="images/Teaching/STEM/L2"
      alt="Team picture"
      style="width: 31%" />
-<img src="images/Teaching/stem/lgo.JPG"
+<img src="images/Teaching/STEM/L3"
      alt="Team picture"
      style="width: 31%" />
 
 ### Sports Moments
 
-<img src="images/Outdorr/C_G.JPG"
+<img src="images/Outdoor/O1"
      alt="Team picture"
      style="width: 32%" />
-<img src="images/Outdorr/C_Yard2.JPG"
+<img src="images/Outdoor/O2"
      alt="Team picture"
      style="width: 32%" />
-<img src="images/Outdorr/CA.JPG"
+<img src="images/Outdoor/O3"
      alt="Team picture"
      style="width: 32%" />
-<img src="images/Outdorr/C_Yard4.JPG"
+<img src="images/Outdoor/O4"
      alt="Team picture"
      style="" />
 

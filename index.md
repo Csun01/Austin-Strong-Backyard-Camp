@@ -81,7 +81,7 @@ Left to right from the first picture: Charles, Annie, Amy, Allan, and Joseph
      style="width: 28%" />
 <img src="images/Music/MusTrio.JPG"
      alt="Team picture"
-     width="264" height="176" />
+     width="255" height="170" />
 <img src="images/Music/C_Mus3.JPG"
      alt="Team picture"
      style="width: 35%" />
